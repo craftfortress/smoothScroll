@@ -19,5 +19,5 @@ var scrollSlow = smoothScroll.createScroller(sideBarDiv, defaultDuration, edgeOf
 
 var scrollFast = smoothScroll.createScroller(sideBarDiv, defaultDuration, edgeOffset)
 
-
+# credit - zenscroll
 No license, based on zenscroll, which also had no discernible license.  All original credit etc goes to them, anyone.  Have fun.
